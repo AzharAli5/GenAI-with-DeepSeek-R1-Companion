@@ -86,11 +86,4 @@ DeepSeek Models (LLMs for AI coding support)
 
 Want to improve the project? Contributions are welcome! Feel free to fork the repo, create a new branch, and submit a pull request.
 
-📜 License
-
-This project is licensed under the MIT License. See LICENSE for details.
-
-🌟 Credits
-
-Built with ❤️ using Ollama, LangChain, and Streamlit.
 
