@@ -1,5 +1,6 @@
-**🚀 DeepSeek Code Companion
-**
+##🚀 DeepSeek Code Companion
+
+
 📝 Overview
 
 DeepSeek Code Companion is an AI-powered coding assistant built with Ollama and LangChain. It provides real-time debugging, code explanations, and AI-assisted pair programming. This app is developed using Streamlit for an interactive and seamless coding experience.
